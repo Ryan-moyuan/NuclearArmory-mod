@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "U U",
+    "UNU",
+    "UUU"
+  ],
+  "key": {
+    "U": {
+      "item": "nucleararmory:uranium_ingot"
+    },
+    "N": {
+      "item": "nucleararmory:plutonium_ingot"
+    }
+  },
+  "result": {
+    "item": "nucleararmory:nuclear_bomb",
+    "count": 1
+  }
+}

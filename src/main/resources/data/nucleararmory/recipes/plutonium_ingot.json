@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " U ",
+    "RUR",
+    " U "
+  ],
+  "key": {
+    "U": {
+      "item": "nucleararmory:uranium_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "nucleararmory:plutonium_ingot",
+    "count": 1
+  }
+}

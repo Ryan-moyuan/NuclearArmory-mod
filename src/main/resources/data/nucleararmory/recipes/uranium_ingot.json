@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " U ",
+    "   "
+  ],
+  "key": {
+    "U": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "nucleararmory:uranium_ingot",
+    "count": 1
+  }
+}
