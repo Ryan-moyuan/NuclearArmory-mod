@@ -40,3 +40,5 @@ No complex crafting chains. No industrial pipelines. No unnecessary systems.
 
 🎯 Recommended For Players who enjoy high-intensity combat PvP servers (instant warfare) Anyone who wants a pure destruction experience 🧪 Beta2 Notice
 
+1.20.1 1.20.1 forge
+!!!
